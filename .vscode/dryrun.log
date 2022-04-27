@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/arif.budiman/Documents/cmake-tutorial'
+make: Leaving directory `/Users/arif.budiman/Documents/cmake-tutorial'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
